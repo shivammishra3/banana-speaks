@@ -13,7 +13,7 @@ function getTranslationURL(text) {
 
 function errorHandler(error) {
     console.log("error occured", error);
-    alert("something wrong with server! try again after some time")
+    alert("OOPS! Something went wrong. Please try after some time")
 }
 
 function clickHandler() {
